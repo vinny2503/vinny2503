@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @vinny2503
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- ⚡ Full name ... Hari Charan Katta
+- 👀 I’m interested in ...PYTHON , DATA SCIENCE , CYBER SECURITY
+- 🌱 I’m currently learning ... PYTHON
+- 💞️ I’m looking to collaborate on ... APPLICATION DEVELOPMENT 
+- 📫 How to reach me ... hccharankatta@gmail.com
 
 <!---
 vinny2503/vinny2503 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
