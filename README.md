@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @vinny2503
-- ⚡ Full name ... Hari Charan Katta
-- 👀 I’m interested in ...PYTHON , DATA SCIENCE , CYBER SECURITY
-- 🌱 I’m currently learning ... PYTHON
-- 💞️ I’m looking to collaborate on ... APPLICATION DEVELOPMENT 
+Hari Charan Katta
+PYTHON , DATA SCIENCE , 
+- 🌱 I’m currently learning ... PYTHON, MACHINE LEARNING, DEEP LEARNING, 
 - 📫 How to reach me ... hccharankatta@gmail.com
 
 <!---
